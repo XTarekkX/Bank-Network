@@ -1,6 +1,6 @@
 # Enterprise Network Design and Implementation Project
 
-This project involves designing and implementing a comprehensive enterprise network for a multi-floor office building located in Nairobi, Kenya. The network caters to various departments distributed across four floors, supporting both wired and wireless users, with dynamic IP addressing and secure routing.
+This project involves designing and implementing a comprehensive enterprise network for a multi-floor office. The network caters to various departments distributed across four floors, supporting both wired and wireless users, with dynamic IP addressing and secure routing.
 
 ---
 
