@@ -65,6 +65,7 @@ The network supports a **four-story office building**, with each floor hosting m
 
 ## 📂 Project Files
 enterprise-network/
+
 ┣ 📄 README.md ← This documentation file
 
 ┣ 📂 bank.pkt ← Cisco Packet Tracer project file
